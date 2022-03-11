@@ -8,6 +8,11 @@ class StudyTime {
         System.out.println(name);
         //System.out.println("Hello New World");
 
+        byte myNum = 127;
+        System.out.println(myNum);
+
+        char myGrade = '!';
+        System.out.println(myGrade);
 
         return;
     }
